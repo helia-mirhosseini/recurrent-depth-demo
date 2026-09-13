@@ -1,0 +1,38 @@
+{
+    "8-32": {
+        "loss": 0.027165874552726746,
+        "accuracy": 0.9932,
+        "balanced_accuracy": 1.0,
+        "unbalanced_accuracy": 0.9864,
+        "hard_negative_accuracy": 0.967196819085487,
+        "count_mismatch_accuracy": 0.999330655957162,
+        "num_examples": 5000,
+        "hard_negative_examples": 1006,
+        "elapsed_seconds": 2.8028839170001447,
+        "latency_ms_per_example": 0.5605767834000289
+    },
+    "40-64": {
+        "loss": 3.5272883907318113,
+        "accuracy": 0.5574,
+        "balanced_accuracy": 0.1496,
+        "unbalanced_accuracy": 0.9652,
+        "hard_negative_accuracy": 0.9317507418397626,
+        "count_mismatch_accuracy": 0.9879113498992612,
+        "num_examples": 5000,
+        "hard_negative_examples": 1011,
+        "elapsed_seconds": 1.9109994169994025,
+        "latency_ms_per_example": 0.3821998833998805
+    },
+    "80-128": {
+        "loss": 3.811732539367676,
+        "accuracy": 0.5026,
+        "balanced_accuracy": 0.0372,
+        "unbalanced_accuracy": 0.968,
+        "hard_negative_accuracy": 0.949290060851927,
+        "count_mismatch_accuracy": 0.9801849405548216,
+        "num_examples": 5000,
+        "hard_negative_examples": 986,
+        "elapsed_seconds": 1.8533067079997636,
+        "latency_ms_per_example": 0.37066134159995273
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "model_type": "recurrent",
+    "seed": 42,
+    "batch_size": 128,
+    "epochs": 10,
+    "learning_rate": 0.0003,
+    "weight_decay": 0.0001,
+    "d_model": 128,
+    "num_heads": 4,
+    "dim_feedforward": 256,
+    "dropout": 0.1,
+    "max_length": 129,
+    "min_train_loops": 1,
+    "max_train_loops": 4,
+    "validation_loops": 4,
+    "num_parameters": 398466
+}
